@@ -1,0 +1,298 @@
+[
+
+
+{
+    "id":1,
+    "brand":"Toyota",
+    "models":[
+
+      {
+        "id":1,
+        "model":"abc",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      },
+
+      {
+        "id":2,
+        "model":"abc",
+        "year":[2015,2011,2007],
+        "color":["red","ash","black","blue"],
+        "doors":"4",
+        "price":"60000"
+
+      },
+
+      {
+        "id":3,
+        "model":"efd",
+        "year":[2020,2011,207],
+        "color":["green","white","black","blue"],
+        "doors":"4",
+        "price":"80000"
+
+      },
+
+      {
+        "id":4,
+        "model":"abc",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      },
+
+      {
+        "id":5,
+        "model":"efd",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      }
+
+    ]
+},
+
+
+{
+    "id":2,
+    "brand":"BMW",
+    "models":[
+
+      {
+        "id":1,
+        "model":"abc",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"70000"
+
+      },
+
+      {
+        "id":2,
+        "model":"abc",
+        "year":[2015,2011,2007],
+        "color":["red","ash","black","blue"],
+        "doors":"4",
+        "price":"60000"
+
+      },
+
+      {
+        "id":3,
+        "model":"efd",
+        "year":[2022,2011,207],
+        "color":["green","white","black","blue"],
+        "doors":"4",
+        "price":"80000"
+
+      },
+
+      {
+        "id":4,
+        "model":"abc",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      },
+
+      {
+        "id":5,
+        "model":"efd",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"90000"
+
+      }
+
+    ]
+    
+},
+
+ {  "id":3,
+    "brand":"Honda",
+    "models":[
+
+      {
+        "id":1,
+        "model":"abc",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      },
+
+      {
+        "id":2,
+        "model":"abc",
+        "year":[2015,2011,2007],
+        "color":["red","ash","black","blue"],
+        "doors":"4",
+        "price":"60000"
+
+      },
+
+      {
+        "id":3,
+        "model":"efd",
+        "year":[2020,2011,207],
+        "color":["green","white","black","blue"],
+        "doors":"4",
+        "price":"80000"
+
+      },
+
+      {
+        "id":4,
+        "model":"abc",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      },
+
+      {
+        "id":5,
+        "model":"efd",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      }
+
+    ]
+},
+
+{    "id":4,
+    "brand":"Volvo",
+    "models":[
+
+      {
+        "id":1,
+        "model":"abc",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      },
+
+      {
+        "id":2,
+        "model":"abc",
+        "year":[2015,2011,2007],
+        "color":["red","ash","black","blue"],
+        "doors":"4",
+        "price":"60000"
+
+      },
+
+      {
+        "id":3,
+        "model":"efd",
+        "year":[2020,2011,207],
+        "color":["green","white","black","blue"],
+        "doors":"4",
+        "price":"80000"
+
+      },
+
+      {
+        "id":4,
+        "model":"abc",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      },
+
+      {
+        "id":5,
+        "model":"efd",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      }
+
+    ]
+    },
+
+    {
+        "id":5,
+        "brand":"Tesla",
+         "models":[
+
+      {
+        "id":1,
+        "model":"abc",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      },
+
+      {
+        "id":2,
+        "model":"abc",
+        "year":[2015,2011,2007],
+        "color":["red","ash","black","blue"],
+        "doors":"4",
+        "price":"60000"
+
+      },
+
+      {
+        "id":3,
+        "model":"efd",
+        "year":[2020,2011,207],
+        "color":["green","white","black","blue"],
+        "doors":"4",
+        "price":"80000"
+
+      },
+
+      {
+        "id":4,
+        "model":"abc",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      },
+
+      {
+        "id":5,
+        "model":"efd",
+        "year":[2010,2011,2007],
+        "color":["red","white","black","blue"],
+        "doors":"4",
+        "price":"50000"
+
+      }
+
+    ]
+    
+    }
+    
+
+
+
+]

@@ -1,0 +1,23 @@
+
+.hero{
+    background-color:#d4b08f ;
+}
+
+
+
+
+.program img{
+    width: 95%;
+    height: 15rem;
+    border-radius: 10px;
+    display: block;
+    padding-right: 10px;
+    
+
+}
+.program{
+    flex-basis: 41%;
+
+}
+
+
