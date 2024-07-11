@@ -4,6 +4,7 @@
 {
     "id":1,
     "brand":"Toyota",
+    "image":"images/toyota.png",
     "models":[
 
       {
@@ -63,6 +64,7 @@
 {
     "id":2,
     "brand":"BMW",
+    "image":"images/bmw.jfif",
     "models":[
 
       {
@@ -121,6 +123,7 @@
 
  {  "id":3,
     "brand":"Honda",
+    "image":"images/honda.png",
     "models":[
 
       {
@@ -178,6 +181,7 @@
 
 {    "id":4,
     "brand":"Volvo",
+    "image":"images/volvo.jfif",
     "models":[
 
       {
@@ -235,7 +239,8 @@
 
     {
         "id":5,
-        "brand":"Tesla",
+        "brand":"tesla",
+        "image":"images/tesla.jfif",
          "models":[
 
       {
